@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 buscando falla de git hub
+=======
+Modificación hecha por Vale
+>>>>>>> 7d87a51cf9e7b89c2d7da378bd941cab2f9f7a17
